@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athirah</h1>
-- 🔭I’m currently enrolled in **Bachelor of Computer Science (Bioinformatics) with Honours**
+- 🔭I’m currently enrolled in Bachelor of Computer Science (Bioinformatics) with Honours
 
 - 🏆Here is my certificates [https://shorturl.at/jDG25](https://shorturl.at/jDG25)
 
