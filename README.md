@@ -24,10 +24,10 @@
   </a>
   <!-- Adobe Photoshop Icon -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios/452/adobe-photoshop.png" alt="Photoshop" width="40" height="40"/>
   </a>
   <!-- Adobe Lightroom Icon -->
   <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Adobe_Lightroom_Classic_CC_icon.svg" alt="Lightroom" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios/452/adobe-lightroom.png" alt="Lightroom" width="40" height="40"/>
   </a>
 </p>
