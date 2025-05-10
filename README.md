@@ -24,10 +24,12 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
+  <!-- Adobe Photoshop Icon -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/photoshop.svg" alt="photoshop" width="40" height="40"/>
   </a>
+  <!-- Adobe Lightroom Icon -->
   <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lightroom/lightroom-plain.svg" alt="lightroom" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lightroom.svg" alt="lightroom" width="40" height="40"/>
   </a>
 </p>
