@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athirah</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" alt="waving cat"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+✨;2nd+Year+Bioinformatics+Student+at+UTM;Always+curious+%F0%9F%92%AD+Always+learning!" alt="Typing animation"/>
-</p>
-
 - 🔭 I’m currently enrolled in **Bachelor of Computer Science (Bioinformatics) with Honours**
 
 - 📫 How to reach me **nurulathirahsyafiqah@graduate.utm.my**
@@ -60,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250" alt="coding gif"/>
+  <img src="https://media1.tenor.com/m/OFvWg1tw3yUAAAAd/cat-laughing.gif" width="250" alt="giggling cat gif"/>
 </p>
 
 <p align="center"><b>Thanks for stopping by! 🐾</b></p>
