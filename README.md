@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nurul athirah syafiqah binti mohd razali moe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurul athirah syafiqah binti mohd razali moe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nurul-athirah-syafiqah-binti-mohd-razali-moe-342989364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nurul-athirah-syafiqah-binti-mohd-razali-moe-342989364/" height="30" width="40" /></a>
 <a href="https://instagram.com/a.tyrae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.tyrae" height="30" width="40" /></a>
 </p>
 
