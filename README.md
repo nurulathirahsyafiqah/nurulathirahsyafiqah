@@ -26,10 +26,10 @@
   </a>
   <!-- Adobe Photoshop Icon -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/photoshop.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
   </a>
   <!-- Adobe Lightroom Icon -->
   <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lightroom.svg" alt="lightroom" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Adobe_Lightroom_CC_icon.svg/1024px-Adobe_Lightroom_CC_icon.svg.png" alt="lightroom" width="40" height="40"/>
   </a>
 </p>
